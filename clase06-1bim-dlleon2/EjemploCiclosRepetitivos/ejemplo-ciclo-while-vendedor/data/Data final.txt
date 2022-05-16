@@ -1,0 +1,14 @@
+Datos de Vendedor
+Nombre: david
+Edad: 38
+Salario mínimo: 30,00
+Número de autos: 50
+Pago mensual: 7530,00
+
+Datos de Vendedor
+Nombre: leonardo
+Edad: 30
+Salario mínimo: 20,00
+Número de autos: 40
+Pago mensual: 6020,00
+

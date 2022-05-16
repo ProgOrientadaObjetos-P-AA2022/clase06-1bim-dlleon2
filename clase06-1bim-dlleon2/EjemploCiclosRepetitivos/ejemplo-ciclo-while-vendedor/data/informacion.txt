@@ -1,0 +1,14 @@
+Datos de Vendedor
+Nombre: dl
+Edad: 32
+Salario mínimo: 20,00
+Número de autos: 30
+Pago mensual: 4520,00
+
+Datos de Vendedor
+Nombre: pt
+Edad: 30
+Salario mínimo: 60,00
+Número de autos: 20
+Pago mensual: 3060,00
+
